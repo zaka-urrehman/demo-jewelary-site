@@ -14,6 +14,8 @@ export default function Home() {
     <Header/>
     <Logo/>
     <DesktopNav/>
+
+    
     <Hero/>
     <Cards/>
     <Categories/>
